@@ -25,7 +25,7 @@
 
 1. **Download ZIP:** Go to the main repository page, click the green **Code** button, and select **Download ZIP** to save the project archive to your computer.
 2. **Unzip the Files:** Extract the downloaded ZIP file using any extraction tool (such as WinRAR, 7-Zip, or Windows built-in extractor).
-3. **Open the App:** Navigate into the extracted folder and open/run **`request_me.py`** (or your executable file) to launch the app!
+3. **Open the App:** Navigate into the extracted folder and open/run **`request_me.exe`** (executable file) to launch the app!
 
 ---
 
