@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Platform-Desktop-blue?style=for-the-badge&logo=windows">
 <img src="https://img.shields.io/badge/Python-GUI-yellow?style=for-the-badge&logo=python">
 
-<p align="center"><b>A sleek, user-friendly desktop companion for testing APIs, managing query parameters, and inspecting responses on the fly! ⚡</b></p>
+### A sleek, user-friendly desktop companion for testing APIs, managing query parameters, and inspecting responses on the fly! ⚡
 
 </div>
 
@@ -24,5 +24,26 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="screenshoot.png" alt="API Request Me App Screenshot" width="500px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="screenshot.png" alt="API Request Me App Screenshot" width="600px">
+</div>
+
+---
+
+## 🕹️ How to Use
+
+1. **Set the Target:** Type or paste your destination endpoint URL into the **Request URL** field.
+2. **Build Query Strings:** Click the **`+ Add Param`** button to create as many key-value pairs as your request demands.
+3. **Fire Request:** Hit the big green **Send Request** button to dispatch your call.
+4. **Inspect Output:** View the incoming response details directly inside the **Response Output** block.
+
+---
+
+## 💖 Contributing
+
+Contributions, feature requests, and bug reports are always welcome! Feel free to fork the repository and open a pull request.
+
+<div align="center">
+
+<sub>Built with passion for developers and testers alike. 🚀</sub>
+
 </div>
